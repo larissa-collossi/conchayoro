@@ -1,4 +1,6 @@
-# conchayoro
-full stack app for tech learning
+# Conchayoro
+Full-stack app for tech learning.
 
-Welcome to our home page!
+Welcome to our homepage!
+
+Last updated on: 08/05/2025
