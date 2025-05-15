@@ -6,7 +6,7 @@ export default function Home() {
   text-sm lg:flex"
       >
         <h1> Welcome to the ConchaYOro App </h1>
-        <h2> 08/05/2025 </h2>
+        <h2> 15/05/2025 </h2>
       </div>
     </main>
   );
