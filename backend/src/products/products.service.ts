@@ -50,4 +50,10 @@ export class ProductsService {
     await product.update(productUpdated);
     return product;
   }
+  async findByCriteria(criteria: any): Promise<Product[]> {
+    return this.productModel.findAll({
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+      where: criteria,
+    });
+  }
 }
