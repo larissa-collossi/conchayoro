@@ -5,8 +5,8 @@ export default function Home() {
         className="z-10 max-w-5xl w-full items-center justify-between font-mono
   text-sm lg:flex"
       >
-        <h1> Welcome to the ConchaYOro App </h1>
-        <h2> 15/05/2025 </h2>
+        <h1> Welcome to the ConchaYOro App - deploy v2 </h1>
+        <h2> 26/05/2025 </h2>
       </div>
     </main>
   );
